@@ -1,0 +1,11 @@
+# pathHelp
+Java 关于地址的库
+## 待开发
+- 面向接口
+- 完全封装
+- 支持NIO，AIO，BIO
+- 支持网络IO，文件IO
+- 支持绝对路径，相对路径
+- 后续会与ObjectCenter联合
+- 直接将IO读取为对象
+- 对象的更复杂操作交为ObjectCenter处理
