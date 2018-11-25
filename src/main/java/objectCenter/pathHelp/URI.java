@@ -1,5 +1,5 @@
 package objectCenter.pathHelp;
 
-public interface Path {
-
+public interface URI {
+	
 }
